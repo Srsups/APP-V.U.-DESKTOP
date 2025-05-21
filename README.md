@@ -1,4 +1,4 @@
 # APP-V.U.-DESKTOP
 Aplicativo Desktop feito com Python e MySQL para facilitar as buscas e as inserções de arquivos em um sistema empresarial
 
-### **_Apenas o esqueleto do projeto, por questões de segurança_**
+### **_Apenas o esqueleto do projeto!_**
