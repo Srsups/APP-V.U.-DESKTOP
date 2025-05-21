@@ -281,7 +281,7 @@ class ScreenBase(Screen):
         file_list_button.bind(on_press=lambda x: self.file_list())
         self.add_widget(file_list_button)
 
-    # Função para 
+    # Função para abrir o explorador de arquivos 
     def open_file(self):
         root = tk.Tk()
         root.withdraw()
